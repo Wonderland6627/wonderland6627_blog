@@ -1,6 +1,6 @@
 ---
 title: SVN 利用Post-commit hook 同步提交信息至钉钉群
-date: 2024-05-08 14:48:40
+date: 2022-06-06 14:48:40
 tags:
     - SVN
 categories:
